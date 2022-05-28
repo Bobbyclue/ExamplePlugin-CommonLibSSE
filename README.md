@@ -12,7 +12,7 @@ This is a basic plugin template for use with CommonLibSSE
 
 ## Building
 ```
-git clone https://github.com/Ryan-rsm-McKenzie/ExamplePlugin-CommonLibSSE
+git clone https://github.com/Bobbyclue/ExamplePlugin-CommonLibSSE
 cd ExamplePlugin-CommonLibSSE
 git submodule init
 git submodule update
